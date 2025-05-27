@@ -5,7 +5,7 @@ Aplicación web para gestionar pacientes en un entorno clínico, con formularios
 ## Dev
 
 1. Clonar el proyecto :
-   `git clone https://github.com/tu-usuario/pacientes-zustand.git `
+   `git clone https://github.com/KateKabisova/pacientes-zustand.git `
    ` cd pacientes-zustand `
 2. Instalar dependencias
    `npm install `
